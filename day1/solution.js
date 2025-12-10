@@ -1,3 +1,5 @@
+// DAY 1: https://adventofcode.com/2025/day/1
+
 import { readFileSync } from 'fs';
 
 const data = readFileSync('./input.txt', 'utf-8'); // reading the file as one big string
